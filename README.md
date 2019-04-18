@@ -1,2 +1,0 @@
-# ITLab
-Internet Technologies Lab
